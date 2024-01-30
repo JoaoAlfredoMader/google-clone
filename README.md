@@ -1,10 +1,10 @@
-#Google Clone
+# Google Clone
 
 Desenvolvimento de uma pagina web que imita o google.
 
-###Ferramentas ultilizadas
+### Ferramentas ultilizadas
 
--HTML
--CSS
+- HTML
+- CSS
 
 Link: https://loquacious-cuchufli-d59de7.netlify.app/
